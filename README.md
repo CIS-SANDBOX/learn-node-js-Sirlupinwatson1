@@ -1,8 +1,13 @@
+>>>>>> master
+
 # Let's make a foundation for node.JS
 Node.js base Repository for Assignments
 
 
+ 
+
 In order to complete this assignment, you need to have git installed in your machine. if you don't have git please install it using the guidelines [here](https://help.github.com/en/github/getting-started-with-github/set-up-git). 
+
 
 If you have already git configured, then
 
